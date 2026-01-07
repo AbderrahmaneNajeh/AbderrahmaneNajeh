@@ -31,7 +31,7 @@ faciliter la prise de décision.
 |--------|-------------|--------------|
 | [Pipeline ETL](lien) | Pipeline complet d'extraction et transformation de données | Python, SQL, Docker |
 | [Dashboard Ventes](lien) | Tableau de bord interactif d'analyse des ventes | Power BI, SQL |
-| [Analyse Exploratoire](lien) | EDA complet sur dataset e-commerce | Python, Pandas, Seaborn |
+| [Analyse Exploratoire](https://github.com/AbderrahmaneNajeh/projet-eda-ecommerce) | EDA complet sur dataset e-commerce | Python, Pandas, Seaborn |
 | [Modèle ML](lien) | Classification avec 92% de précision | Scikit-learn, XGBoost |
 
 ---
