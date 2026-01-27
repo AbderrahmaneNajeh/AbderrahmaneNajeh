@@ -1,6 +1,6 @@
 # Bonjour, je suis Abderrahmane 👋
 
-## 🎯 Data Analyst | Python, SQL, Power BI
+## 🎯 Data Analyst/Scientist | Python, SQL, Power BI
 
 Passionné par la transformation de données en insights actionnables.
 Je construis des pipelines automatisés et des tableaux de bord pour
